@@ -6,7 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antolonappan&layout=compact&hide=jupyter%20notebook)](https://github.com/antolonappan/github-readme-stats)
 
-![waka](https://wakatime.com/share/@antolonappan/8c3f4950-fbad-452d-89b7-b4990bdeb64a.png)
+[![Anto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antolonappan)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
     
