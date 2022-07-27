@@ -8,7 +8,7 @@
 
 [![Anto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antolonappan)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![wakatime](https://wakatime.com/badge/user/e4d61f54-a71a-4db6-81a9-edbb50ce497f.svg)](https://wakatime.com/@e4d61f54-a71a-4db6-81a9-edbb50ce497f)
 
     
 <!--
