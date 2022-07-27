@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-🔭 PhD student in Astrophysics and Cosmology
+🔭 PhD student in Astrophysics and Cosmology 
+
+![Anto's GitHub stats](https://github-readme-stats.vercel.app/api?username=antolonappan&show_icons=true&theme=dark)
+
+[![Anto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antolonappan)](https://github.com/antolonappan/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antolonappan&layout=compact&hide=jupyter%20notebook)](https://github.com/antolonappan/github-readme-stats)
+
+
 <!--
 **antolonappan/antolonappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
