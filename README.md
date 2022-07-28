@@ -50,3 +50,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antolonappan&show_icons=true&locale=en" alt="antolonappan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antolonappan&" alt="antolonappan" /></p>
+
+[![wakatime](https://wakatime.com/badge/user/e4d61f54-a71a-4db6-81a9-edbb50ce497f.svg)](https://wakatime.com/@e4d61f54-a71a-4db6-81a9-edbb50ce497f)
