@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
 
 **🐱 My GitHub Data** 
 
@@ -86,5 +86,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/antolonappan/antolonappan/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/01/2023 05:25:33 UTC
+ Last Updated on 26/01/2023 05:34:17 UTC
 <!--END_SECTION:waka-->
