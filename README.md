@@ -3,9 +3,9 @@
 <h3 align="center">Post Doc Fellow in Cosmology</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-108-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
 
 **🐱 My GitHub Data** 
 
@@ -86,5 +86,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/antolonappan/antolonappan/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/02/2023 06:26:28 UTC
+ Last Updated on 01/02/2023 18:40:59 UTC
 <!--END_SECTION:waka-->
