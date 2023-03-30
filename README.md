@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anto Idicherian Lonappan</h1>
-<h3 align="center">Postdoctoral Fellow </h3>
-<h3 align="center">Department of Physics"</h3>
-<h3 align="center">University of Rome,Tor Vergata"</h3>
+<p align="center">Postdoctoral Fellow, University of Rome. </p>
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%208%20mins-blue)
