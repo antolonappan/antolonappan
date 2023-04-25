@@ -4,13 +4,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-263%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 490.4 kB Used in GitHub's Storage 
+> 📦 490.5 kB Used in GitHub's Storage 
  > 
 > 🏆 329 Contributions in the Year 2023
  > 
@@ -47,20 +47,19 @@ Sunday                   80 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   17 hrs 6 mins       █████████████████████████   99.98 % 
+Python                   14 hrs 30 mins      █████████████████████████   99.98 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  14 hrs 31 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lonappan                 11 hrs 25 mins      █████████████████░░░░░░░░   66.81 % 
-anto                     2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-kSZscaler                2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-simons_array_offline_soft25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+lonappan                 11 hrs 25 mins      ████████████████████░░░░░   78.73 % 
+anto                     2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+simons_array_offline_soft25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 💻 Operating System: 
-Linux                    17 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    14 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,5 +79,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/antolonappan/antolonappan/main/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2023 18:36:36 UTC
+ Last Updated on 25/04/2023 18:36:16 UTC
 <!--END_SECTION:waka-->
