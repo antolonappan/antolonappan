@@ -4,13 +4,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 492.2 kB Used in GitHub's Storage 
+> 📦 492.3 kB Used in GitHub's Storage 
  > 
 > 🏆 413 Contributions in the Year 2023
  > 
@@ -47,20 +47,16 @@ Sunday                   116 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   3 hrs 49 mins       ████████████████████████░   97.39 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-marcia                   2 hrs 27 mins       ████████████████░░░░░░░░░   62.66 % 
-kSZscaler                1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   37.34 % 
+marcia                   8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 56 mins       █████████████████████████   100.00 % 
+Linux                    8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,5 +76,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/antolonappan/antolonappan/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2023 18:36:17 UTC
+ Last Updated on 24/05/2023 18:35:57 UTC
 <!--END_SECTION:waka-->
