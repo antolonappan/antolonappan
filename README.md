@@ -4,7 +4,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-398%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-402%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -47,16 +47,19 @@ Sunday                   134 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 hrs 56 mins       ████████████████████████░   96.68 % 
+CSV                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+anto                     3 hrs 59 mins       █████████████████████████   98.28 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 59 mins       █████████████████████████   98.28 % 
+Mac                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 **I Mostly Code in Python** 
@@ -76,5 +79,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/antolonappan/antolonappan/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2023 18:36:50 UTC
+ Last Updated on 18/08/2023 18:36:20 UTC
 <!--END_SECTION:waka-->
