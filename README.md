@@ -22,7 +22,17 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=antolonappan&show_icons=true&count_private=true&theme=dark" width="350"></a>
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@antolonappan/150dd789-a9be-4f71-9d68-83dc5bf9e63f.png" /></a>
+</p>
+
+<p align='center'>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@antolonappan/5ace9b81-f14f-4764-8f9f-8f0c3bbe30b8.png" width="350"></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@antolonappan/b89d6770-c767-4044-af1d-14a554a7aade.png" width="350" ></a>
+</p>
+
+
+<p align='center'>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=antolonappan&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
