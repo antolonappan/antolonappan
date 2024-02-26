@@ -32,55 +32,7 @@
 
 
 <p align='center'>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=antolonappan&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-<p align='center'>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/MAC-%230078D6.svg?&style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPS-CONTABO-%230071C5.svg?&style=for-the-badge&logo=linuxcontainers&logoColor=white" />
-  <img src="https://img.shields.io/badge/SC-NERSC-%230071C5.svg?&style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/SC-CINECA-%230071C5.svg?&style=for-the-badge&logo=amazonec2&logoColor=white" />
-</p>
-
-<p align='center'>
   :envelope: How to reach me: <a href='mailto:mail@antolonappan.me'>mail@antolonappan.me</a>
 </p>
 
-<details>
-  <summary>📃 Resume</summary>
 
-
-## Education
-
-- :mortar_board:  **Ph.D in Astrophysics and Cosmology**\
-📆 2018 - 2022\
-📍 **SISSA** - Trieste, Italy
-
-- :blue_book:  **M.Sc in Physics**\
-📆 2014 - 2016\
-📍 **SB College,Mahatma Gandhi University** - Kerala, India
-
-- :orange_book:  **B.Sc in Physics**\
-📆 2010 - 2013\
-📍 **SB College,Mahatma Gandhi University** - Kerala, India
-
-## Experience
-- :office:  **Postdoctoral Fellow**\
-📆 2022 - \
-📍 **University of Rome** - Tor Vergata, Rome.
-
-- :office:  **Visiting Researcher**\
-📆 2022 - 2022\
-📍 **KAVLI-IPMU, University of Tokyo** - Tokyo,Japan
-
-- :office:  **Junior Research Fellow**\
-📆 2016-2017\
-📍 **Presidency University** - Kolkatta, India
-
-- :office:  **Project Student**\
-📆 2016-2017\
-📍 **Center for Theoretical Physics,JMI** - New Delhi, India
-
-
-</details>
