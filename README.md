@@ -14,4 +14,5 @@
 </p>
 
 
-![image1](https://github.com/antolonappan/antolonappan/assets/17961712/d94d42ff-022a-4323-98f6-2af7c5d1a5ca)
+
+<img width="1470" alt="Screenshot 2024-03-04 at 14 06 58" src="https://github.com/antolonappan/antolonappan/assets/17961712/5afb6371-b1c7-4326-8a6e-75a3b3c9ca7e">
