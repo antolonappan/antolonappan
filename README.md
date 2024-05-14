@@ -3,9 +3,9 @@
 </h1>
 
 <p align='center'>
-  Postdoctoral Fellow in Astrophysics and Cosmology
+  Postdoctoral Fellow 
 </br>
-  University of Rome, Tor Vergata
+  University of California, San Diego.
 </p>
 
 
